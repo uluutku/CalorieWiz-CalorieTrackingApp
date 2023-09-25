@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalorieTrackingApp.UI", "CalorieTrackingApp.UI\CalorieTrackingApp.UI.csproj", "{9CF2D519-781D-4CF6-A73A-BDDE5039CE92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalorieTrackingApp.DATA", "CalorieTrackingApp.DATA\CalorieTrackingApp.DATA.csproj", "{2CE7570A-2F4A-4395-A189-3FC6AD321BC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalorieTrackingApp.DAL", "CalorieTrackingApp.DAL\CalorieTrackingApp.DAL.csproj", "{A40F1DA1-EC36-4794-9E2D-A2CC124ED290}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalorieTrackingApp.BLL", "CalorieTrackingApp.BLL\CalorieTrackingApp.BLL.csproj", "{EE0270B2-CEA4-4A03-B2AC-A1D9A467A1DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D2ACB40-D597-4156-A2C4-4CE86DC5811E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF2D519-781D-4CF6-A73A-BDDE5039CE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF2D519-781D-4CF6-A73A-BDDE5039CE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF2D519-781D-4CF6-A73A-BDDE5039CE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF2D519-781D-4CF6-A73A-BDDE5039CE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE7570A-2F4A-4395-A189-3FC6AD321BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE7570A-2F4A-4395-A189-3FC6AD321BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE7570A-2F4A-4395-A189-3FC6AD321BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE7570A-2F4A-4395-A189-3FC6AD321BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40F1DA1-EC36-4794-9E2D-A2CC124ED290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40F1DA1-EC36-4794-9E2D-A2CC124ED290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40F1DA1-EC36-4794-9E2D-A2CC124ED290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40F1DA1-EC36-4794-9E2D-A2CC124ED290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0270B2-CEA4-4A03-B2AC-A1D9A467A1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0270B2-CEA4-4A03-B2AC-A1D9A467A1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0270B2-CEA4-4A03-B2AC-A1D9A467A1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0270B2-CEA4-4A03-B2AC-A1D9A467A1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43928670-2E9A-491C-84BE-46CBC988EA97}
+	EndGlobalSection
+EndGlobal
